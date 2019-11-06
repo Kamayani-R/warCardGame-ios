@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var rightScoreLabel: UILabel!
     
     var leftScore = 1
-    var rightScore = 0
+    var rightScore = 2
     
     override func viewDidLoad() {
         super.viewDidLoad()
