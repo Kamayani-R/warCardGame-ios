@@ -18,7 +18,7 @@ class ViewController: UIViewController {
    
     @IBOutlet weak var rightScoreLabel: UILabel!
     
-    var leftScore = 0
+    var leftScore = 1
     var rightScore = 0
     
     override func viewDidLoad() {
